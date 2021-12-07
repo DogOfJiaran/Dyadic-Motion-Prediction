@@ -30,7 +30,7 @@ If you find some overlooked papers, please open issues or pull requests.
 - [[3DPW](https://virtualhumans.mpi-inf.mpg.de/3DPW/)]
   - people in the wild
   - 60 sequences, ~ 50k frames
-  - collected by a moving phone camera, 3D poses infered from their paper [Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera](https://virtualhumans.mpi-inf.mpg.de/papers/vonmarcardECCV18/vonmarcardECCV18.pdf)
+  - collected by a moving phone camera, 3D poses infered from their paper [Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera, ECCV 2018](https://virtualhumans.mpi-inf.mpg.de/papers/vonmarcardECCV18/vonmarcardECCV18.pdf)
 - [[MoPoTs](https://vcai.mpi-inf.mpg.de/projects/SingleShotMultiPerson/)]
   - in door and out door
   - 20 sequences, ~ 8k frames
