@@ -1,6 +1,6 @@
 # Dyadic Motion Prediction
 
-Collect recent works and on dyadic human motion prediction (multi-person human motion predction) and datasets which contain multiple persons
+Collect recent works on dyadic human motion prediction (multi-person human motion predction) and datasets which contain multiple persons
 
 If you find some overlooked papers, please open issues or pull requests.
 
