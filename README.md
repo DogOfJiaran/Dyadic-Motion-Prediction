@@ -29,6 +29,9 @@ If you find some overlooked papers, please open issues or pull requests.
   - dataset: dancing
   - 9 sequences, 4 actions, ~ 40k frames
   - collected by 8 cameras, 3D poses infered from [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+- [CHI3D] (not available since CVPR 2020)
+  - in [Three-dimensional Reconstruction of Human Interactions](https://openaccess.thecvf.com/content_CVPR_2020/html/Fieraru_Three-Dimensional_Reconstruction_of_Human_Interactions_CVPR_2020_paper.html)
+  - dataset: lab-based accurate 3d motion capture
 - [[3DPW](https://virtualhumans.mpi-inf.mpg.de/3DPW/)] 
   - in [Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera](https://openaccess.thecvf.com/content_ECCV_2018/html/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.html)
   - dataset: people in the wild
