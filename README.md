@@ -1,4 +1,4 @@
-# DyadicMotionPrediction
+# Dyadic Motion Prediction
 
 Collect recent works and on dyadic human motion prediction (also called multi-person human motion predction) and datasets which contain multiple persons
 
