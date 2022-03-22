@@ -4,11 +4,15 @@ Collect recent works on dyadic human motion prediction (multi-person human motio
 
 If you find some overlooked papers, please open issues or pull requests.
 
+## Survey
+- German Barquero et al., "Didn't see that coming: a survey on non-verbal social human behavior forecasting", PMLR 2022 [[paper](https://arxiv.org/abs/2203.02480)]
+
 ## Paper
+- German Barquero et al., "Comparison of Spatio-Temporal Models for Human Motion and Pose Forecasting in Face-to-Face Interaction Scenarios", PMLR 2022 [[paper](https://arxiv.org/abs/2203.03245)]
 
 - Isinsu Katircioglu et al., "Dyadic Human Motion Prediction", arXiv 2021.12 [[paper](https://arxiv.org/abs/2112.00396)] 
 
-- Wen Guo et al. "Multi-Person Extreme Motion Prediction", arXiv 2021.05 [[paper](https://arxiv.org/abs/2105.08825)] [[webpage](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/)] [[code](https://github.com/GUO-W/MultiMotion)]
+- Wen Guo et al. "Multi-Person Extreme Motion Prediction", CVPR 2022 [[paper](https://arxiv.org/abs/2105.08825)] [[webpage](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/)] [[code](https://github.com/GUO-W/MultiMotion)]
 
 - Jiashun Wang et al., "Multi-Person 3D Motion Prediction with Multi-Range Transformers", NeurIPS 2021 [[paper](https://arxiv.org/abs/2111.12073)] [[webpage](https://jiashunwang.github.io/MRT/)]
 
